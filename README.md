@@ -72,5 +72,6 @@ class Solution:
             str: The spot ID where the vehicle is parked.
         """
         return ""
+```
 </details>
 
